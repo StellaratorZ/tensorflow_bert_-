@@ -1,5 +1,5 @@
 # BERT_Chinese_Classification
-本实验，是用BERT进行中文情感分类，记录了详细操作及完整程序
+用BERT进行中文情感分类
 
 参考[简书](https://www.jianshu.com/p/aa2eff7ec5c1)
 
